@@ -10,4 +10,4 @@ This is a choose your own story so I will be using a variety of different option
 
 ### Live Link
 
-[Blog Page]
+[Blog Page] (https://github.com/SophieKobe/homework-4)
